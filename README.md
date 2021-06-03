@@ -26,6 +26,13 @@
 
 An implementation of observable weak collection for Swift. Now you can think less about retain cycles in your applications.
 
+- [Usage](#usage)
+- [Requirements](#requirements)
+- [Communication](#communication)
+- [Installation](#installation)
+- [Author](#author)
+- [License](#license)
+
 ## Usage
 
 If you want to notify some elements about some actions and you don't want to get a retain cycle you can use `ObserverList` for storing and notifying your elements.
