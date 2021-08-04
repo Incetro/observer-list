@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CB30D6C8256ADB0C00EE2C61"
+               BlueprintIdentifier = "CB30D6E8256ADB3C00EE2C61"
                BuildableName = "ObserverList.framework"
-               BlueprintName = "ObserverList IOS"
+               BlueprintName = "ObserverList watchOS"
                ReferencedContainer = "container:ObserverList.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,16 +28,6 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CB112408256BF9AE00215E47"
-               BuildableName = "ObserverListTests.xctest"
-               BlueprintName = "ObserverList IOS-Tests"
-               ReferencedContainer = "container:ObserverList.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
@@ -60,9 +50,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CB30D6C8256ADB0C00EE2C61"
+            BlueprintIdentifier = "CB30D6E8256ADB3C00EE2C61"
             BuildableName = "ObserverList.framework"
-            BlueprintName = "ObserverList IOS"
+            BlueprintName = "ObserverList watchOS"
             ReferencedContainer = "container:ObserverList.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
